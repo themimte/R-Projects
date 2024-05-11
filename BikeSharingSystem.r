@@ -1,14 +1,22 @@
 # Check if need to install rvest` library
 require(rvset)
 library(rvest)
+libraryr(lkkrwrfw4gtf24tg
+gergregr
+seg
+)
+rtkgshkrwrvbg
+gsdgwfwegfwegwe
 
+gsrgrwgw
+egewgwg
 url <- "https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems"
 # Get the root HTML node by calling the `read_html()` method with URL
 root_node <- read_html(url)
 table_node <- html_node(root_node, "table")
 table_node
 
-# Convert the bike-sharing system table into a dataframe
+# Convert the bike-shafvserglregmegme4ring system table into a dataframe
 dataframe <- html_table(table_nodes[3],fill = TRUE)
 dataframe
 
